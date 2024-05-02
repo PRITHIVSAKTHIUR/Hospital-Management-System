@@ -27,13 +27,13 @@ pinned: false
 ## Nurse Record Insertion 👩‍⚕️
 
 
-![alt text](assets/100.png)
+![alt text](assets/200.png)
 
 
 ## Patient Record Insertion 😷
 
 
-![alt text](assets/100.png)
+![alt text](assets/300.png)
 
 
 ## Packages & Dependencies
